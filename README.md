@@ -23,9 +23,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrviru&show_icons=true&locale=en&layout=compact" alt="mrviru" /></p>
 
+<p align="center">
 <a href="https://github.com/MrVirul" target="_blank" rel="noopener noreferrer">
   <button style="background-color: #2ea44f; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">
     Visit My GitHub Profile
   </button>
-</a>
+</a></p>
 
