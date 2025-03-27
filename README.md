@@ -25,12 +25,12 @@
 
 
 <p align="center">
-  <a href="https://github.com/MrVirul" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <button style="background-color: #24292e; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 6px; display: flex; align-items: center; gap: 8px; cursor: pointer; transition: all 0.3s ease;">
-      <img src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/github-logo-with-octocat" alt="GitHub" height="24" style="vertical-align: middle;">
-      Visit My Profile
+  <a href="https://wa.me/94701812787" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <button style="background-color: #25D366; color: white; border: none; padding: 10px 20px; border-radius: 6px; font-size: 16px; cursor: pointer; display: inline-flex; align-items: center; gap: 10px; transition: all 0.3s ease;">
+      <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="WhatsApp" height="24" style="vertical-align: middle;">
     </button>
   </a>
 </p>
+
 
 
