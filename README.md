@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VIRUL</h1>
-
+<img align = "center" src = "https://github.com/MrVirul/MrVirul/blob/ee08d6820a31647d3266a013d3f156420bd27c25/MrVirul.png"/>
 <h3 align="center">A passionate full stack developer from SRI LANKA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrviru&label=Profile%20views&color=0e75b6&style=flat" alt="mrviru" /> </p>
