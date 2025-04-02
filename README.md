@@ -5,3 +5,5 @@
 <h3 align="center">Hi there! I'm Virul Methdinu, a passionate full-stack developer with a strong interest in building scalable web applications and smart systems. Currently pursuing Software Engineering at SLIIT, I interested in Spring Boot, React, and Arduino-based embedded systems.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrVirul" alt="MrVirul" /></a> </p>
+
+- 👯 I’m looking to collaborate on **WEB DEVELOPMENT**
