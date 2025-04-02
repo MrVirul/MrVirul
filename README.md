@@ -10,3 +10,11 @@
 - Reach me **virul.mmeemana@gmial.com**
 
 <h3 align = "center"> Let's Talk </h3>
+
+<p align="center">
+<a href="https://linkedin.com/in/virul meemana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="virul meemana" height="30" width="40" /></a>
+<a href="https://fb.com/virul methdinu meemana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="virul methdinu meemana" height="30" width="40" /></a>
+<a href="https://instagram.com/virul_on_insta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="virul_on_insta" height="30" width="40" /></a>
+<a href="https://wa.me/94701812787" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="WhatsApp" height="30" width="40" /></a>
+</p>
+
