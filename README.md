@@ -8,26 +8,30 @@
 
 - 👯 I’m looking to collaborate on **WEB DEVELOPMENT**
 - Reach me **virul.mmeemana@gmial.com**
+
+
+
 <p align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=MrVirul&color=blue)
+  <img src="https://komarev.com/ghpvc/?username=MrVirul&color=blue" alt="Profile Views">
+</p> 
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/MrVirul?style=social" alt="Profile Views">
 </p>
 
-<p align="center">
-  ![GitHub followers](https://img.shields.io/github/followers/MrVirul?style=social)
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrVirul&show_icons=true&theme=radical" alt = "Follower">
+    </p?>
+    
+<p align = "center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVirul&layout=compact&theme=radical">
 </p>
 
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrVirul&show_icons=true&theme=radical)
+<p aign="center"
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrVirul&theme=github-dark">
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrVirul&layout=compact&theme=radical)
-
-
-
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrVirul&theme=github-dark)
-
-
-![GitHub Snake](https://github.com/YOUR_GITHUB_USERNAME/MrVirul/blob/output/github-contribution-grid-snake.svg)
 
 
 
