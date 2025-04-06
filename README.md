@@ -15,10 +15,8 @@
 
 <h3 align = "center"> Let's Talk </h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/virul-meemana-4597292a0/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" style="width: 40px; height: 40px;">
-  </a>
+<p align = "center"> 
+<a href="https://www.linkedin.com/in/virul-meemana-4597292a0/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn" ></a>
 <a href="https://fb.com/virul methdinu meemana" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg"></a>
 <a href="https://instagram.com/virul_on_insta" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" ></a>
 <a href="https://wa.me/94701812787" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg"></a>
