@@ -33,6 +33,7 @@
 - 🔭 Currently pursuing **Software Engineering** at SLIIT
 - 👯 Looking to collaborate on **Web Development** projects
 - 💡 Interested in building scalable applications and IoT solutions
+- 📧 Email: **virul.mmeemana@gmail.com**
 
 ## 📫 Connect With Me
 
@@ -43,7 +44,7 @@
     </svg>
   </a>
   &nbsp;&nbsp;
-  <a href="https://fb.com/virul.methdinu.meemana" target="_blank">
+  <a href="https://fb.com/virul methdinu meemana" target="_blank">
     <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="#1877F2">
       <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385h-3.047v-3.47h3.047v-2.642c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953h-1.514c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385c5.737-.9 10.125-5.864 10.125-11.854z"/>
     </svg>
@@ -138,8 +139,4 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVirul&layout=compact&theme=nord" alt="Most Used Languages" />
-</div>
-
-<div align="center">
-  <p>✉️ <b>Contact:</b> virul.mmeemana@gmail.com</p>
 </div>
