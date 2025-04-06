@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm VIRUL</h1>
 
-<img align = "center"> <img src="https://github.com/MrVirul/MrVirul/blob/ee08d6820a31647d3266a013d3f156420bd27c25/MrVirul.png" alt="MrVirul">
+<div align= "center">
+  <img src="https://github.com/MrVirul/MrVirul/blob/ee08d6820a31647d3266a013d3f156420bd27c25/MrVirul.png?raw=true" alt="MrVirul">
+</div>
+
+
 
 <h3 align="center">Hi there! I'm Virul Methdinu, a passionate full-stack developer with a strong interest in building scalable web applications and smart systems. Currently pursuing Software Engineering at SLIIT, I interested in Spring Boot, React, and Arduino-based embedded systems.</h3>
 
