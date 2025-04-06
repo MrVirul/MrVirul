@@ -16,11 +16,11 @@
 <h3 align = "center"> Let's Talk </h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/virul meemana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="virul meemana" height="30" width="40" /></a>
-<a href="https://fb.com/virul methdinu meemana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="virul methdinu meemana" height="30" width="40" /></a>
-   <a href="https://instagram.com/virul_on_insta" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" ></a>
-<a href="https://wa.me/94701812787" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg"/></a>
-  <a href=mailto:virul.mmeemana@gmail.com target="blank"><img align = "center" src = "https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>
+<a href="https://linkedin.com/in/virul meemana" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
+<a href="https://fb.com/virul methdinu meemana" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg"></a>
+<a href="https://instagram.com/virul_on_insta" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" ></a>
+<a href="https://wa.me/94701812787" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg"></a>
+<a href=mailto:virul.mmeemana@gmail.com target="blank"><img align = "center" src = "https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>
 </p>
 
 
