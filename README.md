@@ -115,7 +115,7 @@
 ## ⚡ GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MrVirul&bg_color=1a1b27&color=9be2fe&line=00cfff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrVirul&bg_color=1a1b27&color=9be2fe&line=00cfff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
