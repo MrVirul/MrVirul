@@ -32,8 +32,22 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,arduino" />
+  <!-- Core Languages & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,html,css" />
+  <br/>
+  <!-- Backend & DevOps -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgres,docker,git" />
+  <br/>
+  <!-- Embedded & IOT -->
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+  <br/>
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=linux,vscode,figma,github,vercel,netlify" />
+  <br/>
+  <!-- Extras -->
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,php,androidstudio" />
 </p>
+
 
 ---
 
