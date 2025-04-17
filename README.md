@@ -20,10 +20,9 @@
 ## 📈 GitHub Stats & Badges
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrVirul&label=Profile+Views&color=0e75b6&style=flat-square" alt="MrVirul" />
+  <img src="https://komarev.com/ghpvc/?username=MrVirul&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/MrVirul?label=Followers&style=flat-square" alt="followers"/>
   <img src="https://img.shields.io/github/stars/MrVirul?label=Stars&style=flat-square" alt="stars"/>
-  <img src="https://badges.pufler.dev/commits/monthly/MrVirul" alt="Monthly Commits"/>
   <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=flat-square" />
 </p>
 
@@ -32,22 +31,16 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <!-- Core Languages & Frameworks -->
   <img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,html,css" />
   <br/>
-  <!-- Backend & DevOps -->
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgres,docker,git" />
   <br/>
-  <!-- Embedded & IOT -->
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
   <br/>
-  <!-- Tools & Platforms -->
   <img src="https://skillicons.dev/icons?i=linux,vscode,figma,github,vercel,netlify" />
   <br/>
-  <!-- Extras -->
   <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,php,androidstudio" />
 </p>
-
 
 ---
 
@@ -67,7 +60,7 @@
   <a href="https://www.linkedin.com/in/virul-meemana-4597292a0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://fb.com/virul methdinu meemana" target="_blank">
+  <a href="https://facebook.com/virulmethdinumeemana" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://instagram.com/virul_on_insta" target="_blank">
@@ -127,6 +120,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MrVirul&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
 ## ⚡ Activity Graph
 
 <p align="center">
@@ -140,5 +141,6 @@
   🔥 Stay passionate. Keep building. Never stop learning.
 </p>
 
-
-![snake gif](https://github.com/MrVirul/MrVirul/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://github.com/MrVirul/MrVirul/blob/output/github-snake-dark.svg" alt="snake gif" />
+</p>
