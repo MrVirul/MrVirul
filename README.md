@@ -27,7 +27,6 @@
   <img src="https://komarev.com/ghpvc/?username=MrVirul&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/MrVirul?label=Followers&style=flat-square" alt="followers"/>
   <img src="https://img.shields.io/github/stars/MrVirul?label=Stars&style=flat-square" alt="stars"/>
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=flat-square" />
 </p>
 
 ## 💼 Professional Summary
