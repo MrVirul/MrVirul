@@ -1,132 +1,100 @@
-<h1 align="center">Hey there, I'm Virul Methdinu 👋</h1>
+<h1 align="center">Virul Methdinu | Full-Stack Developer</h1>
 
 <p align="center">
-  <img src="https://github.com/MrVirul/MrVirul/blob/ee08d6820a31647d3266a013d3f156420bd27c25/MrVirul.png?raw=true" width="200" style="border-radius: 50%;" />
-</p>
-
-<h3 align="center">💻 Full-Stack Developer | 🎓 Software Engineering Student at SLIIT</h3>
-
-<p align="center">
-  🚀 Passionate about crafting scalable <strong>web applications</strong> and innovative <strong>IoT-based smart systems</strong>.<br/>
-  ⚙️ Skilled in <strong>Spring Boot</strong>, <strong>React</strong>, and <strong>Arduino</strong>.
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Let's+build+something+awesome+%F0%9F%92%AA;I+code+it.+I+test+it.+I+ship+it+%F0%9F%9A%80" />
-</p>
-
----
-
-## 📈 GitHub Stats & Badges
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrVirul&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/MrVirul?label=Followers&style=flat-square" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/MrVirul?label=Stars&style=flat-square" alt="stars"/>
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=flat-square" />
-</p>
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,html,css" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgres,docker,git" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=linux,vscode,figma,github,vercel,netlify" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,php,androidstudio" />
-</p>
-
----
-
-## 💼 About Me
-
-- 🎓 Studying **Software Engineering** at **SLIIT**
-- 🛠️ Working on a **Car Maintenance Tracker** & **IoT-based Smart Home Systems**
-- 🤝 Open to **collaborations** in Full-Stack Development and Embedded Systems
-- 🌱 Always learning and exploring new technologies!
-- ⚡ Fun fact: I turn ☕ into code.
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/virul-meemana-4597292a0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/virul-meemana-4597292a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
-  <a href="https://facebook.com/virulmethdinumeemana" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+  <a href="mailto:virul.mmeemana@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+  </a>
+  <a href="https://github.com/MrVirul">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+  </a>
+    <a href="https://facebook.com/virulmethdinumeemana" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30"/>
   </a>
   <a href="https://instagram.com/virul_on_insta" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
   </a>
   <a href="https://wa.me/94701812787" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="mailto:virul.mmeemana@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
   </a>
 </p>
 
----
 
-## 🛠️ Skills & Tools
+## 💼 Professional Summary
 
-<details open>
-  <summary><b>Languages</b></summary>
-  <p>
-    <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,csharp,php" />
-  </p>
-</details>
+Software Engineering student at SLIIT with demonstrated expertise in full-stack development and IoT systems. I specialize in building scalable web applications using Spring Boot and React, while also designing innovative smart systems with Arduino and Raspberry Pi. Passionate about clean code, user-centered design, and delivering high-performance solutions that solve real-world problems.
 
-<details open>
-  <summary><b>Web Development</b></summary>
-  <p>
-    <img src="https://skillicons.dev/icons?i=html,css,react,spring" />
-  </p>
-</details>
+**Currently focusing on:** Car Maintenance Tracker & IoT-based Smart Home Systems
 
-<details open>
-  <summary><b>Databases</b></summary>
-  <p>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-  </p>
-</details>
+## 🔧 Technical Expertise
 
-<details open>
-  <summary><b>Other Tools</b></summary>
-  <p>
-    <img src="https://skillicons.dev/icons?i=arduino,androidstudio,aws,linux,figma,illustrator" />
-  </p>
-</details>
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">Frontend</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,figma" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Backend</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">DevOps & Tools</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=docker,git,linux,vercel,netlify,vscode" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">Database</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">IoT & Embedded</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Other Languages</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=c,cs,php" />
+      </p>
+    </td>
+  </tr>
+</table>
 
----
+## 🚀 Featured Projects
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrVirul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrVirul&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVirul&layout=compact&theme=tokyonight" />
-</p>
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **Car Maintenance Tracker** | A comprehensive application for tracking vehicle maintenance schedules, repairs, and expenses | Spring Boot, React, MySQL | [LuxAuto Lounge](https://github.com/MrVirul/car-maintenance) |
 
----
 
-## 🏆 GitHub Trophies
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrVirul&theme=tokyonight&row=1&column=6" />
-</p>
+## 📊 GitHub Metrics
 
----
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrVirul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVirul&layout=compact&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MrVirul&theme=tokyonight&row=1&column=6&margin-w=15" />
+</div>
+
 
 ## ⚡ Activity Graph
 
@@ -134,13 +102,20 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrVirul&bg_color=0d1117&color=00ffe5&line=14f1ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
----
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="150" /><br/>
-  🔥 Stay passionate. Keep building. Never stop learning.
-</p>
+- 🎓 First year Software Engineering student at Sri Lanka Institute of Information Technology (SLIIT)
+- 🌱 Continuously exploring cloud architecture and microservices design patterns
+- 👯 Looking to collaborate on open-source projects related to smart systems
+- 💬 Ask me about full-stack development, IoT integration, or software architecture
+- ⚡ Fun fact: I participate in hackathons and have contributed to multiple open-source projects
+- 🌐 Portfolio: [Under Developing...](https://MrVirul.com)
 
-<p align="center">
-  <img src="https://github.com/MrVirul/MrVirul/blob/output/github-snake-dark.svg" alt="snake gif" />
-</p>
+<div align="center">
+  <img src="https://github.com/MrVirul/MrVirul/blob/output/github-snake-dark.svg" alt="Contribution Snake Animation" />
+</div>
+
+<div align="center">
+  <br>
+  <p>📫 <b>Let's connect and build something amazing together!</b> 📫</p>
+</div>
