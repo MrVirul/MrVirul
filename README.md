@@ -97,7 +97,6 @@ Software Engineering student at SLIIT with demonstrated expertise in full-stack 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrVirul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVirul&layout=compact&theme=tokyonight" />
 </div>
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MrVirul&theme=tokyonight&row=1&column=6&margin-w=15" />
 </div>
