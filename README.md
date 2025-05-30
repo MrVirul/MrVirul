@@ -86,7 +86,7 @@ Software Engineering student at SLIIT with demonstrated expertise in full-stack 
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **Car Maintenance Tracker** | A comprehensive application for tracking vehicle maintenance schedules, repairs, and expenses | Spring Boot, React, MySQL | [LuxAuto Lounge](https://github.com/MrVirul/car-maintenance) |
+| **Car Maintenance Tracker** | A comprehensive application for tracking vehicle maintenance schedules, repairs, and expenses | Spring Boot, React, MySQL | [PORSHE AUTO CARE](https://github.com/mrbhanukab/CarCare) |
 
 
 </div>
