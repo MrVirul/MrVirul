@@ -121,9 +121,6 @@ Software Engineering student at SLIIT with demonstrated expertise in full-stack 
 - ⚡ Fun fact: I participate in hackathons and have contributed to multiple open-source projects
 - 🌐 Portfolio: [Under Developing...](https://MrVirul.com)
 
-<div align="center">
-  <img src="https://github.com/MrVirul/MrVirul/blob/output/github-snake-dark.svg" alt="Contribution Snake Animation" />
-</div>
 
 <div align="center">
   <br>
