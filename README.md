@@ -1,4 +1,4 @@
-<h1 align="center">Virul Methdinu | Full-Stack Developer</h1>
+<h1 align="center">✨ Virul Methdinu — Vibe Coder ⚡</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/virul-meemana-4597292a0/">
@@ -10,7 +10,7 @@
   <a href="https://github.com/MrVirul">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
   </a>
-    <a href="https://facebook.com/virulmethdinumeemana" target="_blank">
+  <a href="https://facebook.com/virulmethdinumeemana" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30"/>
   </a>
   <a href="https://instagram.com/virul_on_insta" target="_blank">
@@ -19,30 +19,31 @@
   <a href="https://wa.me/94701812787" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
   </a>
+  <a href="https://virul-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30"/>
+  </a>
 </p>
 
-## 📈 GitHub Stats & Badges
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrVirul&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/MrVirul?label=Followers&style=flat-square" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/MrVirul?label=Stars&style=flat-square" alt="stars"/>
-</p>
+## 🌟 Who Am I?
 
-## 💼 Professional Summary
+Hey there! I'm **Virul Methdinu**, a.k.a **Vibe Coder**, a passionate full-stack developer and embedded systems enthusiast from Sri Lanka. I build futuristic web apps with React & Spring Boot and craft smart IoT systems with Arduino and Raspberry Pi. I live for clean code, high vibes, and creative tech!
 
-Software Engineering student at SLIIT with demonstrated expertise in full-stack development and IoT systems. I specialize in building scalable web applications using Spring Boot and React, while also designing innovative smart systems with Arduino and Raspberry Pi. Passionate about clean code, user-centered design, and delivering high-performance solutions that solve real-world problems.
+**🔭 Currently working on:**  
+`Car Maintenance Tracker System` • `Smart Home Automation (IoT)`  
+**🎯 Vision:** Scale Sri Lanka's tech and garment industries with smart software.
 
-**Currently focusing on:** Car Maintenance Tracker & IoT-based Smart Home Systems
+---
 
-## 🔧 Technical Expertise
+## 🧠 Tech Toolbox
 
 <table>
   <tr>
     <td valign="top" width="33%">
       <h3 align="center">Frontend</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,figma" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,figma" />
       </p>
     </td>
     <td valign="top" width="33%">
@@ -60,9 +61,9 @@ Software Engineering student at SLIIT with demonstrated expertise in full-stack 
   </tr>
   <tr>
     <td valign="top" width="33%">
-      <h3 align="center">Database</h3>
+      <h3 align="center">Databases</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
       </p>
     </td>
     <td valign="top" width="33%">
@@ -72,7 +73,7 @@ Software Engineering student at SLIIT with demonstrated expertise in full-stack 
       </p>
     </td>
     <td valign="top" width="33%">
-      <h3 align="center">Other Languages</h3>
+      <h3 align="center">Others</h3>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=c,cs,php" />
       </p>
@@ -80,49 +81,60 @@ Software Engineering student at SLIIT with demonstrated expertise in full-stack 
   </tr>
 </table>
 
-## 🚀 Featured Projects
+---
+
+## 🚀 Projects with a Purpose
 
 <div align="center">
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **Car Maintenance Tracker** | A comprehensive application for tracking vehicle maintenance schedules, repairs, and expenses | Spring Boot, React, MySQL | [PORSHE AUTO CARE](https://github.com/mrbhanukab/CarCare) |
-
+| Project | What It Does | Stack | Link |
+|--------|---------------|--------|------|
+| 🔧 **Car Maintenance Tracker** | Tracks repairs, expenses, and schedules for cars | React, Spring Boot, MySQL | [PORSHE AUTO CARE](https://github.com/mrbhanukab/CarCare) |
+| 🌐 **Personal Portfolio** | My interactive dev space and digital identity | React, Tailwind, Vercel | [virul-dev.vercel.app](https://virul-dev.vercel.app/) |
 
 </div>
 
-## 📊 GitHub Metrics
+---
+
+## 📈 GitHub Stats & Trophies
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MrVirul&label=Profile+Views&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/MrVirul?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/MrVirul?label=Stars&style=flat-square" />
+</p>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrVirul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVirul&layout=compact&theme=tokyonight" />
 </div>
 
-<br/>
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MrVirul&theme=tokyonight&row=1&column=6&margin-w=15" />
 </div>
 
+---
 
-
-## ⚡ Activity Graph
+## 📊 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrVirul&bg_color=0d1117&color=00ffe5&line=14f1ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
+---
+
 ## 👨‍💻 About Me
 
-- 🎓 First year Software Engineering student at Sri Lanka Institute of Information Technology (SLIIT)
-- 🌱 Continuously exploring cloud architecture and microservices design patterns
-- 👯 Looking to collaborate on open-source projects related to smart systems
-- 💬 Ask me about full-stack development, IoT integration, or software architecture
-- ⚡ Fun fact: I participate in hackathons and have contributed to multiple open-source projects
-- 🌐 Portfolio: [Under Developing...](https://MrVirul.com)
+- 🎓 Second-year Software Engineering student at SLIIT  
+- 🔥 Crafting immersive web experiences and smart hardware integrations  
+- 💡 Exploring cloud-native microservices and real-time systems  
+- 🤝 Always open to collabs on projects with impact  
+- ✨ My brand: **Code Clean. Design Loud. Vibe High.**  
+- 🌐 [Portfolio](https://virul-dev.vercel.app/) – let’s build something remarkable
 
+---
 
 <div align="center">
   <br>
-  <p>📫 <b>Let's connect and build something amazing together!</b> 📫</p>
+  <p><strong>📫 Let's connect and bring your next idea to life with pure code & good vibes!</strong></p>
 </div>
