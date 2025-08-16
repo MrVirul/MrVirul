@@ -1,4 +1,4 @@
-<h1 align="center"> Virul Methdinu — Frontend Developer</h1>
+<h1 align="center"> Virul Methdinu — FullStack Developer</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/virul-meemana-4597292a0/">
