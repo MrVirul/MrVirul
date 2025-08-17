@@ -49,13 +49,13 @@ Hey there! I'm **Virul Methdinu**, a.k.a **Vibe Coder**, a passionate full-stack
     <td valign="top" width="33%">
       <h3 align="center">Backend</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python" />
+        <img src="https://skillicons.dev/icons?i=java,spring,python" />
       </p>
     </td>
     <td valign="top" width="33%">
       <h3 align="center">DevOps & Tools</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=docker,git,linux,vercel,netlify,vscode" />
+        <img src="https://skillicons.dev/icons?i=docker,github,vercel,vscode" />
       </p>
     </td>
   </tr>
@@ -63,19 +63,19 @@ Hey there! I'm **Virul Methdinu**, a.k.a **Vibe Coder**, a passionate full-stack
     <td valign="top" width="33%">
       <h3 align="center">Databases</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+        <img src="https://skillicons.dev/icons?i=mysql,postgres" />
       </p>
     </td>
     <td valign="top" width="33%">
       <h3 align="center">IoT & Embedded</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp" />
+        <img src="https://skillicons.dev/icons?i=arduino,cpp" />
       </p>
     </td>
     <td valign="top" width="33%">
       <h3 align="center">Others</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=c,cs,php" />
+        <img src="https://skillicons.dev/icons?i=c,cs" />
       </p>
     </td>
   </tr>
