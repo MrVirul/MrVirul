@@ -1,4 +1,4 @@
-<h1 align="center"> Virul Methdinu — Undergraduate Developer</h1>
+<h1 align="center"> Virul Methdinu — Undergraduate DevOps</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/virul-meemana-4597292a0/">
@@ -23,6 +23,10 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30"/>
   </a>
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" height="300" />
+</div>
 
 ---
 
@@ -96,7 +100,7 @@ Hey there! I'm **Virul Methdinu**, a.k.a **Vibe Coder**, a passionate full-stack
 
 ---
 
-## 📈 GitHub Stats & Trophies
+## 📊 GitHub Stats & Trophies
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MrVirul&label=Profile+Views&color=0e75b6&style=flat-square" />
@@ -130,11 +134,12 @@ Hey there! I'm **Virul Methdinu**, a.k.a **Vibe Coder**, a passionate full-stack
 - 💡 Exploring cloud-native microservices and real-time systems  
 - 🤝 Always open to collabs on projects with impact  
 - ✨ My brand: **Code Clean. Design Loud. Vibe High.**  
-- 🌐 [Portfolio](https://virul-dev.vercel.app/) – let’s build something remarkable
+- 🌐 [Portfolio](https://virul-dev.vercel.app/) – let's build something remarkable
 
 ---
 
 <div align="center">
-  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500" />
+  <br><br>
   <p><strong>📫 Let's connect and bring your next idea to life with pure code & good vibes!</strong></p>
 </div>
