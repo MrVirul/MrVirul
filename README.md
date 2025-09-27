@@ -139,7 +139,6 @@ Hey there! I'm **Virul Methdinu**, a.k.a **Vibe Coder**, a passionate full-stack
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150" />
   <br>
   <p><strong>📫 Let's connect and build something amazing with code & good vibes!</strong></p>
 </div>
