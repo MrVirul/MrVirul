@@ -102,22 +102,13 @@ Hey there! I'm **Virul Methdinu**, a.k.a **Vibe Coder**, a passionate full-stack
 
 ## 📊 GitHub Stats & Trophies
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrVirul&label=Profile+Views&color=0e75b6&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/MrVirul?label=Followers&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/MrVirul?label=Stars&style=flat-square" />
-</p>
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrVirul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVirul&layout=compact&theme=tokyonight" />
+
+  <!-- Most used languages by commits -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrVirul&theme=tokyonight" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrVirul&theme=tokyonight&row=1&column=6&margin-w=15" />
-</div>
-
----
 
 ## 📊 Contribution Graph
 
