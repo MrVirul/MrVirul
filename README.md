@@ -34,10 +34,6 @@
 
 Hey there! I'm **Virul Methdinu**, a.k.a **Vibe Coder**, a passionate full-stack developer and embedded systems enthusiast from Sri Lanka. I build futuristic web apps with React & Spring Boot and craft smart IoT systems with Arduino and Raspberry Pi. I live for clean code, high vibes, and creative tech!
 
-**🔭 Currently working on:**  
-`Car Maintenance Tracker System` • `Smart Home Automation (IoT)`  
-**🎯 Vision:** Scale Sri Lanka's tech and garment industries with smart software.
-
 ---
 
 ## 🧠 Tech Toolbox
@@ -84,19 +80,6 @@ Hey there! I'm **Virul Methdinu**, a.k.a **Vibe Coder**, a passionate full-stack
     </td>
   </tr>
 </table>
-
----
-
-## 🚀 Projects with a Purpose
-
-<div align="center">
-
-| Project | What It Does | Stack | Link |
-|--------|---------------|--------|------|
-| 🔧 **Car Maintenance Tracker** | Tracks repairs, expenses, and schedules for cars | React, Spring Boot, MySQL | [PORSHE AUTO CARE](https://github.com/mrbhanukab/CarCare) |
-| 🌐 **Personal Portfolio** | My interactive dev space and digital identity | React, Tailwind, Vercel | [virul-dev.vercel.app](https://virul-dev.vercel.app/) |
-
-</div>
 
 ---
 
