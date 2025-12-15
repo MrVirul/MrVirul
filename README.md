@@ -31,20 +31,18 @@
 | **IoT / Hardware** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
 
 ---
-
 ### 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrVirul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrVirul&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrVirul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrVirul&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrVirul&bg_color=0d1117&color=2563EB&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="100%" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MrVirul&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="100%" alt="GitHub Trophies" />
+</div>
 
 ---
-
 ### 🤝 Let's Connect
 <p align="center">
   <a href="https://instagram.com/virul_on_insta"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
