@@ -33,16 +33,24 @@
 ---
 ### 📊 GitHub Insights
 
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrVirul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrVirul&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrVirul&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="100%" alt="GitHub Trophies" />
-</div>
+  
+### 🏆 GitHub Achievements
 
+![Commits](https://img.shields.io/github/commit-activity/m/MrVirul/MrVirul?style=for-the-badge&logo=github&color=2563EB)
+![Stars](https://img.shields.io/github/stars/MrVirul?style=for-the-badge&logo=github&color=2563EB)
+![Followers](https://img.shields.io/github/followers/MrVirul?style=for-the-badge&logo=github&color=2563EB)
+![Profile Views](https://komarev.com/ghpvc/?username=MrVirul&color=2563EB&style=for-the-badge)
+
+</div>
 ---
+
 ### 🤝 Let's Connect
 <p align="center">
   <a href="https://instagram.com/virul_on_insta"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
