@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Virul Methdinu Meemana
+#  Virul Methdinu Meemana
 ### Undergraduate Software Engineer & Game Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Building+Modern+Full-Stack+Apps;Exploring+Embedded+Systems;Software+Engineering+Student;Vibe+Coder+⚡" alt="Typing SVG" />
@@ -36,7 +36,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrVirul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrVirul&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
 <div align="center">
