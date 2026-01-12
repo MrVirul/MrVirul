@@ -1,7 +1,7 @@
 <div align="center">
 
 #  Virul Methdinu Meemana
-### Undergraduate Software Engineer & Game Developer
+### Undergraduate DevOps Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Building+Modern+Full-Stack+Apps;Exploring+Embedded+Systems;Software+Engineering+Student;Vibe+Coder+⚡" alt="Typing SVG" />
 
