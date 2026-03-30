@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1f2e,2563EB&height=160&section=header&text=Virul%20Methdinu%20Meemana&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Software%20Engineering%20Student%20%7C%20DevOps%20Developer&descAlignY=68&descSize=16&descColor=94a3b8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB,1a1f2e,0D1117&height=160&section=header&text=%20%20%20Virul%20Methdinu%20Meemana&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Software%20Engineering%20Student%20%7C%20DevOps%20and%20Unity%20Game%20Developer&descAlignY=68&descSize=16&descColor=94a3b8" width="100%" />
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 ```yaml
 name: Virul Methdinu Meemana
-role: Undergraduate DevOps Developer
+role: Software Engineer | DevOps Developer | Unity Game Developer
 university: Sri Lanka Institute of Information Technology (SLIIT)
 year: 2nd Year — Software Engineering
 location: Sri Lanka 🇱🇰
@@ -31,6 +31,7 @@ focus:
   - Full-Stack Web Development
   - Embedded Systems & IoT
   - CI/CD & DevOps Pipelines
+  - Unity Game Development (C#)
 ```
 
 ---
@@ -44,6 +45,7 @@ focus:
 ![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=9B4F96)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 
 ### Frontend
@@ -66,6 +68,10 @@ focus:
 ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D)
+
+### 🎮 Game Development
+![Unity](https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=ffffff)
+![C#](https://img.shields.io/badge/C%23_Scripting-0D1117?style=for-the-badge&logo=csharp&logoColor=9B4F96)
 
 ---
 
