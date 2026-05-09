@@ -22,7 +22,7 @@
 
 ```yaml
 name: Virul Methdinu Meemana
-role: Software Engineer | DevOps Developer | Unity Game Developer
+role: Software Engineer | Unity Game Developer
 university: Sri Lanka Institute of Information Technology (SLIIT)
 year: 2nd Year — Software Engineering
 location: Sri Lanka 🇱🇰
