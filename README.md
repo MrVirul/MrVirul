@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB,1a1f2e,0D1117&height=160&section=header&text=%20%20%20Virul%20Methdinu%20Meemana&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Software%20Engineering%20Student%20%7C%20DevOps%20and%20Unity%20Game%20Developer&descAlignY=68&descSize=16&descColor=94a3b8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB,1a1f2e,0D1117&height=160&section=header&text=&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MrVirul/MrVirul/main/MrVirul.png" alt="Virul Methdinu Meemana" width="500">
+</p>
 
 <br/>
 
