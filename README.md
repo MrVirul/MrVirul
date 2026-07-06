@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```yaml
 name: Virul Methdinu Meemana
@@ -36,7 +36,7 @@ focus:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -75,29 +75,7 @@ focus:
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MrVirul&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=94a3b8&dates=94a3b8&sideNums=ffffff&currStreakNum=ffffff" width="60%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrVirul&theme=react-dark&hide_border=true&bg_color=0D1117&color=2563EB&line=2563EB&point=ffffff&area=true&area_color=2563EB" width="90%" alt="Contribution Graph" />
-</p>
-
----
-
-## 🏆 Profile Highlights
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/MrVirul?style=for-the-badge&logo=github&color=2563EB&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/stars/MrVirul?style=for-the-badge&logo=github&color=2563EB&labelColor=0D1117" />
-  <img src="https://komarev.com/ghpvc/?username=MrVirul&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
-
----
-
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://instagram.com/virul_on_insta">
