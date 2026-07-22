@@ -11,7 +11,7 @@
 <a href="https://mrvirul.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2563EB" />
 </a>
-<a href="https://www.linkedin.com/in/virul-meemana-mrvirul-4597292a0/">
+<a href="https://www.linkedin.com/in/virulmeemana/">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
 </a>
 <a href="mailto:virul.mmeemana@gmail.com">
