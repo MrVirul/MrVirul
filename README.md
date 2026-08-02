@@ -31,10 +31,8 @@ university: Sri Lanka Institute of Information Technology (SLIIT)
 year: 2nd Year — Software Engineering
 location: Sri Lanka 🇱🇰
 focus:
-  - Microservices Architecture
-  - Full-Stack Web Development
+  - Architectural Based Development
   - Embedded Systems & IoT
-  - CI/CD & DevOps Pipelines
   - Unity Game Development (C#)
 ```
 ---
